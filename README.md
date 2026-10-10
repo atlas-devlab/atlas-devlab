@@ -6,8 +6,14 @@ Laboratori, appunti e progetti per un percorso concreto nello sviluppo software 
 
 | Area | Repository | Contenuto |
 | --- | --- | --- |
+| Android e AI locale | [Evo Android](https://github.com/atlas-devlab/evo-android) | Ecosistema in sviluppo: EvoCore, EvoConti ed EvoLab, con contratti Binder/AIDL e runtime locale. Apache 2.0. |
+| Assistente Windows | [EvoCall Assistant](https://github.com/atlas-devlab/evo-call-assistant) | Prototipo Python con interfaccia Tkinter, modello locale e trascrizione audio opzionale. Apache 2.0. |
 | Sicurezza web | [Pentesting Lab Journey](https://github.com/atlas-devlab/pentesting-lab-journey) | Laboratori documentati, a partire da SQL Injection su DVWA, con report e schermate. |
 | Smart contract auditing | [Audit Diary](https://github.com/atlas-devlab/audit-diary) | Appunti per un percorso di studio dedicato allo smart contract auditing. |
+
+I progetti Evo sono aperti alla collaborazione: consulta le guide `CONTRIBUTING.md`
+e le [attività per iniziare](https://github.com/atlas-devlab/evo-android/issues?q=is%3Aissue%20is%3Aopen%20label%3A%22good%20first%20issue%22).
+Sono benvenuti contributi a codice, test, documentazione, accessibilità e traduzioni.
 
 ## Metodo
 
