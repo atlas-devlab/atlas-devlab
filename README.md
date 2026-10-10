@@ -1,16 +1,18 @@
-## Hi there 👋
+# Atlas DevLab
 
-<!--
-**atlas-devlab/atlas-devlab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Laboratori, appunti e progetti per un percorso concreto nello sviluppo software e nella sicurezza.
 
-Here are some ideas to get you started:
+## Esplora il portfolio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Area | Repository | Contenuto |
+| --- | --- | --- |
+| Sicurezza web | [Pentesting Lab Journey](https://github.com/atlas-devlab/pentesting-lab-journey) | Laboratori documentati, a partire da SQL Injection su DVWA, con report e schermate. |
+| Smart contract auditing | [Audit Diary](https://github.com/atlas-devlab/audit-diary) | Appunti per un percorso di studio dedicato allo smart contract auditing. |
+
+## Metodo
+
+Imparare attraverso esercizi pratici e rendere il percorso consultabile: contesto, passaggi svolti e osservazioni. Il portfolio cresce insieme ai laboratori e ai progetti completati.
+
+---
+
+**Atlas | Software & Security**
