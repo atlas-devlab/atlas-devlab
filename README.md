@@ -24,11 +24,25 @@ collaborators in hydrology, data, sensors, security and community governance.*
 
 | Area | Repository | Contenuto |
 | --- | --- | --- |
-| Android e AI locale | [Evo Android](https://github.com/atlas-devlab/evo-android) | Ecosistema in sviluppo: EvoCore, EvoConti ed EvoLab, con contratti Binder/AIDL e runtime locale. Apache 2.0. |
-| Assistente Windows | [EvoCall Assistant](https://github.com/atlas-devlab/evo-call-assistant) | Prototipo Python con interfaccia Tkinter, modello locale e trascrizione audio opzionale. Apache 2.0. |
+| Android e AI locale | [Evo Android](https://github.com/atlas-devlab/evo-android) | Ecosistema in sviluppo: EvoCore, EvoConti ed EvoLab, con contratti Binder/AIDL e runtime locale. Nuovi contributi originali AGPL-3.0-only; permessi Apache precedenti e licenze esterne conservati. [Politica di licenza](https://github.com/atlas-devlab/evo-android/blob/main/LICENSE_POLICY.md). |
+| Assistente Windows | [EvoCall Assistant](https://github.com/atlas-devlab/evo-call-assistant) | Prototipo Python con interfaccia Tkinter, modello locale e trascrizione audio opzionale. Nuovi contributi originali AGPL-3.0-only; permessi Apache precedenti conservati. [Politica di licenza](https://github.com/atlas-devlab/evo-call-assistant/blob/main/LICENSE_POLICY.md). |
 | Ambiente, dati e comunità | [Virdacora: presentazione pubblica](VIRDACORA.md) | Prototipo di prove ambientali verificabili e governance comunitaria. Codice pubblico; nuova licenza AGPLv3 con eccezioni e permessi MIT precedenti. |
-| Sicurezza web | [Pentesting Lab Journey](https://github.com/atlas-devlab/pentesting-lab-journey) | Laboratori documentati, a partire da SQL Injection su DVWA, con report e schermate. |
-| Smart contract auditing | [Audit Diary](https://github.com/atlas-devlab/audit-diary) | Appunti per un percorso di studio dedicato allo smart contract auditing. |
+| Sicurezza web | [Pentesting Lab Journey](https://github.com/atlas-devlab/pentesting-lab-journey) | Report SQL Injection su DVWA con tre schermate; ricognizione di rete e Active Directory pianificate. Testi originali CC BY-SA 4.0, con esclusioni per materiali di terzi. |
+| Smart contract auditing | [Audit Diary](https://github.com/atlas-devlab/audit-diary) | Percorso di studio allo stadio iniziale, attualmente descritto nel README. Testi originali CC BY-SA 4.0. |
+
+### I tre componenti di Evo Android
+
+- [EvoCore](https://github.com/atlas-devlab/evo-android/tree/main/evocore-host): host AI locale, autorizzazioni dei client e memoria separata; SDK e contratti Binder/AIDL condivisi.
+- [EvoConti](https://github.com/atlas-devlab/evo-android/tree/main/app): prototipo per finanze personali e acquisti, archivio locale e integrazione con EvoCore. Alcune funzioni consultano fonti in rete.
+- [EvoLab / EvoDashboard](https://github.com/atlas-devlab/evo-android/tree/main/evolab): sessioni diagnostiche locali, grafici di telemetria e campionamento del dispositivo.
+
+Sono componenti della stessa repository, con voci distinte nel portfolio. I test
+documentati non sostituiscono la verifica di inferenza, prestazioni e compatibilità
+sui dispositivi effettivi.
+
+*EvoCore, EvoConti and EvoLab are components of one Android repository. New original
+Evo contributions use AGPL-3.0-only; previously granted Apache permissions and
+third-party terms remain valid. Original lab and diary prose uses CC BY-SA 4.0.*
 
 I progetti Evo sono aperti alla collaborazione: consulta le guide `CONTRIBUTING.md`
 e le [attività per iniziare](https://github.com/atlas-devlab/evo-android/issues?q=is%3Aissue%20is%3Aopen%20label%3A%22good%20first%20issue%22).
