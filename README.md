@@ -1,5 +1,21 @@
 # Atlas DevLab
 
+**Progetti personali di AI locale, software Android e prove ambientali.**
+
+[Portfolio professionale di Ilyasse Ouahhabi](https://ilyasse-ouahhabi.chirpycamel128.chatgpt.site/) · [English portfolio](https://ilyasse-ouahhabi.chirpycamel128.chatgpt.site/en/)
+
+Il sito presenta il problema affrontato da ogni progetto, il lavoro disponibile,
+le fonti e un possibile primo contributo. Le schede distinguono prototipi,
+esperimenti e risultati ancora da verificare.
+
+- **Ambiente e comunità:** [Virdacora](https://ilyasse-ouahhabi.chirpycamel128.chatgpt.site/progetti/virdacora/).
+- **AI su Android:** [Evo Android](https://ilyasse-ouahhabi.chirpycamel128.chatgpt.site/progetti/evo-android/), con [EvoCore](https://ilyasse-ouahhabi.chirpycamel128.chatgpt.site/progetti/evocore/), [EvoConti](https://ilyasse-ouahhabi.chirpycamel128.chatgpt.site/progetti/evoconti/) ed [EvoLab](https://ilyasse-ouahhabi.chirpycamel128.chatgpt.site/progetti/evolab/) nella stessa repository.
+- **Conversazioni su Windows:** [EvoCall Assistant](https://ilyasse-ouahhabi.chirpycamel128.chatgpt.site/progetti/evo-call-assistant/).
+
+*Personal projects in local AI, Android software and environmental evidence.
+Explore the English portfolio for project pages, source links and possible first contributions.*
+
+
 Laboratori, appunti e progetti per un percorso concreto nello sviluppo software e nella sicurezza.
 
 ## Virdacora: le prove dell’ambiente, la voce delle comunità
